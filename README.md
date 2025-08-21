@@ -17,3 +17,5 @@ git add -> git commit -> git push
 
 made a change
 >>>>>>> 614b3a7be426367e0b18cc9d6b443f25b5ef4b63
+
+# hi this maddies change 
